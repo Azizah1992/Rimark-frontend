@@ -3,5 +3,4 @@
 
 ![image](https://user-images.githubusercontent.com/80859185/191972071-1a30847f-594f-4278-a4ed-ef85fe4a2a42.png)
 
-https://dashboard.heroku.com/apps/rimarkabl-frontend
 
